@@ -3,7 +3,7 @@ import random
 import socket
 import threading
 
-print("--> Tools by Lion Chou <--")
+print("--> Tools by Leon Hengker Wibu Tzy<--")
 print("#-- SAMP DDOS --#")
 ip = str(input(" IP:"))
 port = int(input(" Port:"))
