@@ -3,8 +3,9 @@ import random
 import socket
 import threading
 
-print("--> Tools by Leon Hengker Wibu Tzy<--")
-print("#-- SAMP DDOS --#")
+print("--> ILCdevelopment DDOS Tools <--")
+print("#-- SAMP DDOS for Testing Only! --#")
+print("Flood http Security Tester")
 ip = str(input(" IP:"))
 port = int(input(" Port:"))
 choice = str(input(" UDP(y/n):"))
